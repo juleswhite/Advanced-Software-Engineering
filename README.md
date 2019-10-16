@@ -22,6 +22,7 @@ There are no outside readings or lectures to watch.
   2. Assignment 2 - Week 4
   3. Assignment 3 - Week 6
   4. Assignment 4 - Week 8
+  5. Assignment 5 - Week 10
   5. Final Project - Week 13
 
 ### Assignment Descriptions and Code
