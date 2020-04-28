@@ -7,6 +7,10 @@ Please see: https://github.com/juleswhite/Advanced-Software-Engineering/tree/mas
 
 ## Reading Schedule
 
+### General Reference
+
+1. Clojure Core Functions: https://clojuredocs.org/
+
 ### Prior to the second live session:
 
 Reading:
@@ -39,10 +43,14 @@ Reading:
 
 Reading / Watching: 
 1.	(Reread) Chapters 3 & 4, CBT, https://www.braveclojure.com/do-things/ , https://www.braveclojure.com/core-functions-in-depth/
-2.	Chapter 10 (To the end of the “Atoms” section), CBT, https://www.braveclojure.com/zombie-metaphysics/
-3.	Chapter 11, CBT, https://www.braveclojure.com/core-async/
 
-### Prior to the tenth live session:
+### Prior to the ninth live session:
+
+Reading / Watching: 
+1.	Chapter 10 (To the end of the “Atoms” section), CBT, https://www.braveclojure.com/zombie-metaphysics/
+2.	Chapter 11, CBT, https://www.braveclojure.com/core-async/
+
+### Prior to the end of the course:
 
 Reading / Watching:
 1.	Watch Rich Hickey’s Simple Made Easy Talk: https://www.infoq.com/presentations/Simple-Made-Easy
@@ -54,17 +62,16 @@ Reading / Watching:
 
 ### Assignment Value
 
-  1. Assignments 1-4 are equally weighted for 60% of your grade
+  1. Assignments 1-3 are equally weighted for 60% of your grade
   2. The Final Project is worth 20% of your grade
+  3. The content / coding challenges / questions are worth 20% of your grade
 
 ### Due Dates
 
-  1. Assignment 1 - Week 2
-  2. Assignment 2 - Week 4
-  3. Assignment 3 - Week 6
-  4. Assignment 4 - Week 8
-  5. Assignment 5 - Week 10
-  5. Final Project - Week 13
+  1. Assignment 1 - Week 6
+  2. Assignment 2 - Week 8
+  3. Assignment 3 - Week 10
+  4. Final Project - Week 13
 
 ### Assignment Descriptions and Code
 
