@@ -1,11 +1,15 @@
-# Demo 1
+# Asgn 1
 
-# Demo 2
+Will be announced later in the course...
 
-# Demo 3
+# Asgn 2
 
-# Demo 4
+Will be announced later in the course...
 
-# Demo 5
+# Asgn 3
+
+Will be announced later in the course...
 
 # Final Demo & Video
+
+Will be announced later in the course...
