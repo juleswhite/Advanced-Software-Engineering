@@ -51,62 +51,56 @@ Complete the following steps and paste the answers to them into the open respons
 
 # Module 2 Open Response
 
-Create your questions / coding challenges and submit them as described in the first live session. Your questions should be based on the current module and the coding challenges should be based on the material from the prior module.
+Create your questions and write a coding challenge that requires creating at least three named functions, one of which is a higher-order function, and submit them as described in the first live session. Your questions should be based on the current module and the coding challenges should be based on the material from Module 1.
 
 https://github.com/vu-cs6385-su20/open-response-questions/blob/master/README.md
 
 # Module 3 Open Response
 
-Create your questions / coding challenges and submit them as described in the first live session. Your questions should be based on the current module and the coding challenges should be based on the material from the prior module.
+Create your questions and a coding challenge that requires writing a simple application with multiple functions that uses maps and lists with destructuring. Your questions should be based on the current module and the coding challenges should be based on the material from Module 2.
 
 https://github.com/vu-cs6385-su20/open-response-questions/blob/master/README.md
 
 # Module 4 Open Response
 
-Create your questions / coding challenges and submit them as described in the first live session. Your questions should be based on the current module and the coding challenges should be based on the material from the prior module.
-
-https://github.com/vu-cs6385-su20/open-response-questions/blob/master/README.md
+To be announced.
 
 # Module 5 Open Response
 
-Create your questions / coding challenges and submit them as described in the first live session. Your questions should be based on the current module and the coding challenges should be based on the material from the prior module.
-
-https://github.com/vu-cs6385-su20/open-response-questions/blob/master/README.md
+To be announced.
 
 # Module 6 Open Response
 
-Create your questions / coding challenges and submit them as described in the first live session. Your questions should be based on the current module and the coding challenges should be based on the material from the prior module.
-
-https://github.com/vu-cs6385-su20/open-response-questions/blob/master/README.md
+To be announced.
 
 # Module 7 Open Response
 
-Coming soon.
+To be announced.
 
 # Module 8 Open Response
 
-Coming soon.
+To be announced.
 
 # Module 9 Open Response
 
-Coming soon.
+To be announced.
 
 # Module 10 Open Response
 
-Coming soon.
+To be announced.
 
 # Module 11 Open Response
 
-Coming soon.
+To be announced.
 
 # Module 12 Open Response
 
-Coming soon.
+To be announced.
 
 # Module 13 Open Response
 
-Coming soon.
+To be announced.
 
 # Module 14 Open Response
 
-Coming soon.
+To be announced.
