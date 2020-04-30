@@ -2,7 +2,15 @@
 
 You will need to set up a development environment for the course. Please complete the set up prior to the first live session.
 
-## Clojure Editors
+## Assumptions
+
+This guide assumes that you have a Java SDK installed. Any JDK version >= 8.0 should be fine.
+
+## Install Leiningen
+
+Install Leiningen using the instructions here: https://leiningen.org/
+
+## Install a Clojure Editor
 
 There are a wide range of editors that can be used for Clojure, including:
 
