@@ -89,8 +89,7 @@ In addition to your questions, please:
    git push -u origin your_name_solutions_moduleN
    ```
 
-4. Create a pull request from your branch. The "base" branch should be "master" and the "compare" branch should be the
-   branch that you created for your solutions. Do not assign the pull request or list a reviewer.
+4. Create a pull request from your branch. The "base" branch should be "master" and the "compare" branch should be the branch that you created for your solutions. Do not assign the pull request or list a reviewer. A sample pull request has been created here: https://github.com/vu-cs6385-su20/open-response-questions/pull/13
    
 5. If you want to solve a challenge, but you feel that the specification isn't clear, please post a courteous issue   requesting clarification from the creator of the challenge. Make sure and assign the issue to the creator of the challenge. However, you should prioritize finishing your six challenges over getting a response from the person that created the challenge you request additional information about. 
 
