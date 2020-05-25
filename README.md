@@ -68,9 +68,9 @@ Reading / Watching:
 
 ### Due Dates
 
-  1. Assignment 1 - Week 6
-  2. Assignment 2 - Week 8
-  3. Assignment 3 - Week 10
+  1. Assignment 1 - Week 7
+  2. Assignment 2 - Week 9
+  3. Assignment 3 - Week 11
   4. Final Project - Week 13
 
 ### Assignment Descriptions and Code
