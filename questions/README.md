@@ -99,11 +99,59 @@ In the open response form, post a link to your pull request as the solution.
 
 # Module 5 Open Response
 
-To be announced.
+Create your questions based on the lecture material as usual.
+
+Resolve any outstanding issues in your Module 2-3 coding challenges.
+
+In addition to your questions, please:
+
+1. Create a new branch named "your_name_solutions_moduleN" (e.g., jules_white_solutions_module1). 
+   ```
+   git checkout -b your_name_solutions_moduleN
+   ```
+
+2. In this new branch, solve nine three of the Module 2 coding challenges. Do not solve your own challenges.
+
+3. When you are done, push your branch to the repository. 
+   ```
+   git push -u origin your_name_solutions_moduleN
+   ```
+
+4. Create a pull request from your branch. The "base" branch should be "master" and the "compare" branch should be the branch that you created for your solutions. Do not assign the pull request or list a reviewer. A sample pull request has been created here: https://github.com/vu-cs6385-su20/open-response-questions/pull/13
+   
+5. If you want to solve a challenge, but you feel that the specification isn't clear, please post a courteous issue   requesting clarification from the creator of the challenge. Make sure and assign the issue to the creator of the challenge. However, you should prioritize finishing your six challenges over getting a response from the person that created the challenge you request additional information about. 
+
+6. Of course, you could peek at the solutions, but then you would be wasting your time in the course. Also, you will need this practice to gain the skills needed to succeed in the later assignments.
+
+In the open response form, post a link to your pull request as the solution.
 
 # Module 6 Open Response
 
-To be announced.
+Create your questions based on the lecture material as usual.
+
+Resolve any outstanding issues in your Module 2-3 coding challenges.
+
+In addition to your questions, please:
+
+1. Create a new branch named "your_name_solutions_moduleN" (e.g., jules_white_solutions_module1). 
+   ```
+   git checkout -b your_name_solutions_moduleN
+   ```
+
+2. In this new branch, solve two of the Module 3 multi-function coding challenges. Do not solve your own challenges.
+
+3. When you are done, push your branch to the repository. 
+   ```
+   git push -u origin your_name_solutions_moduleN
+   ```
+
+4. Create a pull request from your branch. The "base" branch should be "master" and the "compare" branch should be the branch that you created for your solutions. Do not assign the pull request or list a reviewer. A sample pull request has been created here: https://github.com/vu-cs6385-su20/open-response-questions/pull/13
+   
+5. If you want to solve a challenge, but you feel that the specification isn't clear, please post a courteous issue   requesting clarification from the creator of the challenge. Make sure and assign the issue to the creator of the challenge. However, you should prioritize finishing your six challenges over getting a response from the person that created the challenge you request additional information about. 
+
+6. Of course, you could peek at the solutions, but then you would be wasting your time in the course. Also, you will need this practice to gain the skills needed to succeed in the later assignments.
+
+In the open response form, post a link to your pull request as the solution.
 
 # Module 7 Open Response
 
