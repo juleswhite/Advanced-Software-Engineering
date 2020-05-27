@@ -110,7 +110,7 @@ In addition to your questions, please:
    git checkout -b your_name_solutions_moduleN
    ```
 
-2. In this new branch, solve nine three of the Module 2 coding challenges. Do not solve your own challenges.
+2. In this new branch, solve nine of the Module 2 coding challenges. Do not solve your own challenges.
 
 3. When you are done, push your branch to the repository. 
    ```
