@@ -155,32 +155,32 @@ In the open response form, post a link to your pull request as the solution.
 
 # Module 7 Open Response
 
-To be announced.
+Create your questions based on the lecture material as usual.
 
 # Module 8 Open Response
 
-To be announced.
+Create your questions based on the lecture material as usual.
 
 # Module 9 Open Response
 
-To be announced.
+Create your questions based on the lecture material as usual.
 
 # Module 10 Open Response
 
-To be announced.
+Create your questions based on the lecture material as usual.
 
 # Module 11 Open Response
 
-To be announced.
+Create your questions based on the lecture material as usual.
 
 # Module 12 Open Response
 
-To be announced.
+Create your questions based on the lecture material as usual.
 
 # Module 13 Open Response
 
-To be announced.
+Create your questions based on the lecture material as usual.
 
 # Module 14 Open Response
 
-To be announced.
+Create your questions based on the lecture material as usual.
